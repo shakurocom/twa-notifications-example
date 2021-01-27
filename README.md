@@ -1,6 +1,6 @@
 ## An example of implementing push notifications in a TWA application
 
-<img src="https://github.com/shakurocom/twa-notifications-example/blob/master/demo.gif" alt="TWA notification example demo" height="500px" width="243px" />
+<img src="https://github.com/shakurocom/twa-notifications-example/blob/main/demo.gif" alt="TWA notification example demo" height="500px" width="243px" />
 
 > A [repository](https://github.com/shakurocom/pwa-for-twa-notifications-example) with a sample PWA application used for this example.
 
