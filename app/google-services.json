@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330864329443",
+    "project_id": "shakuro-twa-demo-app",
+    "storage_bucket": "shakuro-twa-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330864329443:android:7c32dd92424d2bc478bbd6",
+        "android_client_info": {
+          "package_name": "com.shakuro.twa_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330864329443-abhlnlm7otoel8q2d4frrp6uknlr5g2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bvvn140nsLnqeMUmQcngvDzkT5BNekA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330864329443-abhlnlm7otoel8q2d4frrp6uknlr5g2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

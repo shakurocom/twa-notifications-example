@@ -1,0 +1,36 @@
+{
+  "packageId": "com.shakuro.twa_demo_app",
+  "host": "pwa-for-twa-notifications-example.vercel.app",
+  "name": "TWA notifications example",
+  "launcherName": "TWA notifications",
+  "display": "standalone",
+  "themeColor": "#FFFFFF",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://pwa-for-twa-notifications-example.vercel.app/icons/logo512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "key0",
+    "password": "123456"
+  },
+  "appVersionName": "0.0.1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://pwa-for-twa-notifications-example.vercel.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "portrait",
+  "appVersion": "0.0.1"
+}
