@@ -19,4 +19,8 @@ Next, your web application takes this parameter from a URL and uses it (send it 
 - [Bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap).
 - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging).
 
-You can learn more from this [article](https://shakuro.com/blog).
+## Give it a try and reach us
+
+Explore our expertise in <a href="https://shakuro.com/services/native-mobile-development/?utm_source=github&utm_medium=repository&utm_campaign=pull-to-refresh">Native Mobile Development</a> and <a href="https://shakuro.com/services/ios-dev/?utm_source=github&utm_medium=repository&utm_campaign=pull-to-refresh">iOS Development</a>.</p>
+
+If you need professional assistance with your mobile or web project, feel free to <a href="https://shakuro.com/get-in-touch/?utm_source=github&utm_medium=repository&utm_campaign=pull-to-refresh">contact our team</a>
